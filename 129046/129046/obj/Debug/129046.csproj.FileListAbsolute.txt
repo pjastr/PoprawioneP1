@@ -1,0 +1,12 @@
+C:\Users\local\Desktop\poprawa\129046\129046\bin\Debug\129046.exe.config
+C:\Users\local\Desktop\poprawa\129046\129046\bin\Debug\129046.exe
+C:\Users\local\Desktop\poprawa\129046\129046\bin\Debug\129046.pdb
+C:\Users\local\Desktop\poprawa\129046\129046\obj\Debug\129046.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\poprawa\129046\129046\obj\Debug\129046.exe
+C:\Users\local\Desktop\poprawa\129046\129046\obj\Debug\129046.pdb
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\bin\Debug\129046.exe.config
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\obj\Debug\129046.exe
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\obj\Debug\129046.pdb
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\bin\Debug\129046.exe
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\bin\Debug\129046.pdb
+G:\poprawa\gut\poprawa-master\poprawa-master\poprawa\129046\129046\obj\Debug\129046.csprojResolveAssemblyReference.cache
